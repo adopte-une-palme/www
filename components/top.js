@@ -9,7 +9,7 @@ const links = [
   return link
 })
 
-const Nav = () => (
+const Top = () => (
   <nav>
     <ul>
       <li>
@@ -53,4 +53,4 @@ const Nav = () => (
   </nav>
 )
 
-export default Nav
+export default Top
